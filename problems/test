@@ -1,0 +1,7 @@
+input x
+factorial x
+factorial 5
+gcd 10 5
+input a
+input b
+gcd a b
